@@ -1,4 +1,4 @@
-Me llamo **Matilda Tapia Díaz**, tengo 26 años y soy **Ingeniera Civil Industrial** de la Universidad Diego Portales (**UDP**) en Chile.
+### Hi, I'm **Matilda Tapia Díaz**
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matildatapiadiaz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matilda.tapia.d@gmail.com)
@@ -6,12 +6,12 @@ Me llamo **Matilda Tapia Díaz**, tengo 26 años y soy **Ingeniera Civil Industr
 
 <img align= "right" width= "185" src= "https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"/>
 
-
-- 💻 Me llamo **Matilda Tapia Díaz**, tengo 26 años y soy Machine Learning Developer
-- 📚 Soy Ingeniera Civil Industrial con Magister en Ciencias de la Ingenieria de la Universidad Diego Portales
-- 📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial.
-- 🔭 Trabajando en Deep Learning & Machine Learning
-- 🌟 Lenguajes principales: Python, R
+- 💻 I am a Civil Industrial Engineer with a Master's degree in Engineering Sciences from Diego Portales University in Chile.
+- 📚 Exploring and working with Deep Learning & Machine Learning.
+- 📝 I have a strong interest in data science and artificial intelligence.
+- 🔭 Currently working with neural networks.
+- 🌟 Main languages: Python, R.
+- 🌐 I’m currently open for: <b>Job</b> or an <b>Intern</b>.
 
 
 #### Languages
