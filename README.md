@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matilda.tapia.d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&color=121011)](https://github.com/MatildaTapia262)
 
-<img align= "right" width= "185" src= "https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"/>
+<img align= "right" width= "150" src= "https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"/>
 
 - 💻 I am a Civil Industrial Engineer with a Master's degree in Engineering Sciences from Diego Portales University in Chile.
 - 📚 Exploring and working with Deep Learning & Machine Learning.
