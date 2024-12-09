@@ -4,13 +4,13 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matilda.tapia.d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&color=121011)](https://github.com/MatildaTapia262)
 
-<img align= "right" width= "150" src= "https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif"/>
+<img align= "right" width= "180" src= "https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif" style="margin-left: -200px;"/>
 
 - 💻 I am a Civil Industrial Engineer with a Master's degree in Engineering <br>
 Sciences from Diego Portales University in Chile.
 - 📚 Exploring and working with Deep Learning & Machine Learning.
-- 📝 I have a strong interest in data science and artificial intelligence.
-- 🔭 Currently working with neural networks.
+- 📝 I have a strong interest in Data Science and Artificial Intelligence.
+- 🔭 Currently working with Neural Networks.
 - 🌟 Main languages: Python, R.
 - 🌐 I’m currently open for: <b>Job</b> or an <b>Intern</b>.
 
