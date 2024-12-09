@@ -12,7 +12,7 @@ Sciences from Diego Portales University in Chile.
 - 📝 I have a strong interest in Data Science and Artificial Intelligence.
 - 🔭 Currently working with Neural Networks.
 - 🌟 Main languages: Python, R.
-- 🌐 I’m currently open for: <b>Job</b> or an <b>Intern</b>.
+- 🌐 I’m currently open for a <b>Job</b>.
 
 
 #### Languages
