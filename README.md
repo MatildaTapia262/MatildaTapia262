@@ -31,10 +31,22 @@ Sciences from Diego Portales University in Chile.
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn&logoColor=white)&nbsp;
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat&logo=Apache%20Spark&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=seaborn&logoColor=white)&nbsp;
 
 #### Databases and Cloud Hosting
 ![AWS](https://img.shields.io/badge/AWS%20Cloud-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white)&nbsp;
+
+#### MLOps and Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white)&nbsp;
+![MLflow](https://img.shields.io/badge/MLflow-020326?style=flat&logo=mlflow&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)&nbsp;
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)&nbsp;
 
 #### Software and Tools
 
